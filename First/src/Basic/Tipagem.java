@@ -1,3 +1,5 @@
+package Basic;
+
 public class Tipagem {
 
     public static void main(String[] args) {
